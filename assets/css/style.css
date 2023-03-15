@@ -1,0 +1,12 @@
+.dashboard-icon{
+    font-size: 3.5rem;
+}
+.dashboard-photo{
+    /* font-size: 3; */
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+.edit-icon{
+    font-size: 7em;
+}
